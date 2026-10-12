@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "BrightPath Software",
+    "industry": "SaaS",
+    "location": "Texas",
+    "revenue": 8000000,
+    "employees": 45,
+    "website": "brightpath.example",
+    "verified": true
+  },
+  {
+    "id": 2,
+    "name": "Summit Industrial Services",
+    "industry": "Manufacturing",
+    "location": "Florida",
+    "revenue": 12000000,
+    "employees": 85,
+    "website": "",
+    "verified": false
+  },
+  {
+    "id": 3,
+    "name": "Northstar IT Solutions",
+    "industry": "IT Services",
+    "location": "Texas",
+    "revenue": 5000000,
+    "employees": 30,
+    "website": "northstar.example",
+    "verified": true
+  },
+  {
+    "id": 4,
+    "name": "Greenfield Business Services",
+    "industry": "Business Services",
+    "location": "Georgia",
+    "revenue": 6500000,
+    "employees": 60,
+    "website": "greenfield.example",
+    "verified": false
+  },
+  {
+    "id": 5,
+    "name": "Cedar Cloud Systems",
+    "industry": "SaaS",
+    "location": "Florida",
+    "revenue": 9000000,
+    "employees": 110,
+    "website": "cedarcloud.example",
+    "verified": true
+  },
+  {
+    "id": 6,
+    "name": "Summit Industrial Services",
+    "industry": "Manufacturing",
+    "location": "Florida",
+    "revenue": 12000000,
+    "employees": 85,
+    "website": "",
+    "verified": false
+  },
+  {
+    "id": 7,
+    "name": "Apex Digital Solutions",
+    "industry": "SaaS",
+    "location": "California",
+    "revenue": 7000000,
+    "employees": 75,
+    "website": "https://example.com",
+    "verified": true
+  },
+  {
+    "id": 8,
+    "name": "Restart Persistence Test",
+    "industry": "SaaS",
+    "location": "india",
+    "revenue": 60000,
+    "employees": 20,
+    "website": "http://example.com",
+    "verified": true
+  }
+]
